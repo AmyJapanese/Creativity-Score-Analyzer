@@ -1,0 +1,9 @@
+# user-provided text data
+# it's recommended to keep this ignored for privacy and copyright safety
+txtdata/
+
+#output
+rare_words.md
+
+# Data for development. Can be erased.
+data-all/
