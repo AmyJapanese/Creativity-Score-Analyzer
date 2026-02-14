@@ -8,5 +8,5 @@ def get_word_rank(word, lang='en', wordlist='best'):
 
 # 例
 while True:
-    search_word = input("順位を知りたい単語を入力してください：")
+    search_word = input("順位を知りたい単語を入力してください：").lower
     print(get_word_rank(search_word, "en"))
